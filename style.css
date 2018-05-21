@@ -1,0 +1,40 @@
+/* add your CSS here */
+.card {
+    
+    width: 300px;
+    border: solid;
+    border-width: thin;
+    border-color: gainsboro;
+    margin: 200px;
+    padding: 5px;
+    box-shadow: 2px 2px #d1c5ce;
+        
+}
+.image{
+    margin-left: auto;
+    margin-right:auto;
+    
+}
+.list {
+    list-style-type: none;
+    text-align: left;
+    margin-left: 0px;
+}
+.fact{
+    font-style: italic;
+    
+    
+}
+.label{
+    font-weight: bold;
+    
+}
+
+.details{
+    width: 290px;
+    border: solid;
+    border-width: thin;
+    border-color: gainsboro;
+    padding: 5px;
+    
+}
